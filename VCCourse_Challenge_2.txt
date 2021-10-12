@@ -1,0 +1,1 @@
+Git Bash is a useful resource for developers to work as a team!
